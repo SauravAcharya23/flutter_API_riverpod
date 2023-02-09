@@ -1,8 +1,16 @@
-# get_data_riverpod
+# API using Riverpod
 
 A new Flutter project.
 
 ## Getting Started
+This project gets data from API and displays the data using Riverpod State Management
+
+[Link of API:](https://reqres.in/api/users?page=2), which gives the data of users
+
+
+# Dependincies used in this project
+- http:
+- flutter_riverpod:
 
 This project is a starting point for a Flutter application.
 
